@@ -195,6 +195,30 @@ td, th{
     font-style: italic;
 }
 
+.beneficios{
+    padding: 3em 0;
+}
+
+.conteudo-beneficios{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1.5;
+}
+
+.itens:first-child{
+    font-weight: bold;
+}
+
+.imagem-beneficios{
+    width: 60%;
+}
+
 .mapa{
     padding: 3em 0;
 }
@@ -204,9 +228,6 @@ td, th{
     margin: 0 0 2em;
 }
 
-.imagembeneficios{
-    width: 60%;
-}
 
 .video{
     width: 560px;
