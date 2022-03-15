@@ -30,7 +30,7 @@ nav a{
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 20px;
     text-decoration: none;   
 }
 
@@ -262,7 +262,6 @@ td, th{
 /*Design para dispositivos mobile*/ 
 
 @media screen and (max-width: 480px){
-
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
         width: auto;
     }
@@ -279,4 +278,3 @@ td, th{
         width: 100%;
     }
 }
-
